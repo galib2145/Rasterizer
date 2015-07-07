@@ -2,5 +2,5 @@
 *.depend
 *.svg
 *.ppm
-/bin/*
-/obj/*
+bin/
+obj/
